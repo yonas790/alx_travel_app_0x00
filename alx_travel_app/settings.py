@@ -43,8 +43,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',          # For REST APIs
-    'corsheaders',             # For handling CORS
-    'drf_yasg',                # For Swagger documentation
     'listings',
 ]
 
